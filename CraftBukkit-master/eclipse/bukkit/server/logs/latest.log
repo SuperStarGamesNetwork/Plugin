@@ -1,0 +1,29 @@
+[16:51:54] [Server thread/INFO]: Starting minecraft server version 1.7.2
+[16:51:54] [Server thread/INFO]: Loading properties
+[16:51:54] [Server thread/INFO]: Default game type: SURVIVAL
+[16:51:54] [Server thread/INFO]: Generating keypair
+[16:51:54] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:51:55] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-1.6.4-R2.0-23-ge8eb325-b2941jnks (MC: 1.7.2) (Implementing API version 1.7.2-R0.1-SNAPSHOT)
+[16:51:55] [Server thread/INFO]: Preparing level "world"
+[16:51:55] [Server thread/INFO]: Preparing start region for level 0 (Seed: 5494473593308979641)
+[16:51:55] [Server thread/INFO]: Preparing start region for level 1 (Seed: 5494473593308979641)
+[16:51:56] [Thread-7/INFO]: ----- Bukkit Auto Updater -----
+[16:51:56] [Thread-7/INFO]: It appears that you're running a Development Build, when you've specified in bukkit.yml that you prefer to run Recommended Builds.
+[16:51:56] [Thread-7/INFO]: If you would like to be kept informed about new Development Build releases, it is recommended that you change 'preferred-channel' in your bukkit.yml to 'dev'.
+[16:51:56] [Thread-7/INFO]: With that set, you will be told whenever a new version is available for download, so that you can always keep up to date and secure with the latest fixes.
+[16:51:56] [Thread-7/INFO]: If you would like to disable this warning, simply set 'suggest-channels' to false in bukkit.yml.
+[16:51:56] [Thread-7/INFO]: ----- ------------------- -----
+[16:51:56] [Server thread/INFO]: Preparing start region for level 2 (Seed: 5494473593308979641)
+[16:51:56] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[16:51:56] [Server thread/INFO]: Done (1.748s)! For help, type "help" or "?"
+[16:52:08] [Server thread/INFO]: Plugins (0): [m
+[16:52:14] [Server thread/INFO]: CONSOLE: Stopping the server..[m
+[16:52:14] [Server thread/INFO]: Stopping server
+[16:52:14] [Server thread/INFO]: Saving players
+[16:52:14] [Server thread/INFO]: Saving worlds
+[16:52:14] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[16:52:14] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
+[16:52:15] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End
+[16:52:15] [Thread-4/INFO]: Stopping server
+[16:52:15] [Thread-4/INFO]: Saving players
+[16:52:15] [Thread-4/INFO]: Saving worlds
